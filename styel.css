@@ -1,0 +1,52 @@
+  .p1a{
+    float: left;
+    width: 20%;
+   }
+  .modal-content{
+    background-color: #1882ac;
+    padding: 1rem;
+    width: 82rem;
+    border-radius: 0.5rem;
+   }
+  .close-button {
+    float: right;
+    width: 20px;
+    line-height: 19px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 20px;
+    color: white;
+    font-size: 18px;
+   }
+  .dialog-bg{
+    padding: 12px;
+    margin-top: 32px;
+    background: white;
+    border-radius: 0.5rem;
+   }
+  
+  /*.heade{
+    border: 1.2px solid #288FDB;
+    border-radius: 2px;
+    padding: 8px;
+    margin: 8px 0px;
+   } */
+  .input_body{
+    border: 1.2px solid #288FDB;
+    border-radius: 2px;
+    padding: 8px;
+    margin: 8px 0px;
+    }
+
+  .clear{
+    clear: both;
+   }
+   span{
+    float: right;
+    width: 7%;
+
+   }
+
